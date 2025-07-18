@@ -4,6 +4,16 @@ A structured engineering system that helps GPTs generate **production-ready soft
 
 ---
 
+## 📚 Table of Contents
+
+- [Why This Exists](#-why-this-exists)
+- [Core Features](#-core-features)
+- [Folder Structure Output](#-folder-structure-output)
+- [Real-World Use Cases](#-real-world-use-cases)
+- [Heuristics Guide](./docs/heuristics.md)
+
+---
+
 ## 📖 Why This Exists
 
 This started as a side experiment.
@@ -59,7 +69,7 @@ It’s the onboarding doc I wish GPT had — so it could follow real software de
 
 ## 🔗 Also check out
 
-🧩 [JSON Foundry VS Code Extension](https://marketplace.visualstudio.com/items?itemName=karthikchinasani.json-foundry) — Visualize JSON as a mind map and instantly generate TypeScript interfaces
+🧩 [JSON Foundry VS Code Extension](#) — Visualize JSON as a mind map and instantly generate TypeScript interfaces
 
 ---
 
