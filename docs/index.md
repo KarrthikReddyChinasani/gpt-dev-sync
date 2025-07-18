@@ -5,7 +5,7 @@ Welcome to the documentation for **GPT Dev Sync** — a heuristic system that tu
 ## 🔗 Available Guides
 
 - [Heuristics Guide](./heuristics.md) – Full engineering ruleset and test enforcement
-- [Backstory + Project Overview](../GPT_Dev_Sync_README_Intro.md)
+- [Backstory + Project Overview](../README.md)
 
 ---
 
